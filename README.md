@@ -59,10 +59,6 @@ The dashboard helps stakeholders monitor claim processing efficiency and identif
 - `Claims_Dashboard.pbix`
 - `Claims_Data.xlsx`
 
-## Dashboard Preview
-
-![Claims Dashboard](Screenshots/dashboard.png)
-
 ## Business Insights
 
 - Tracks claim approval and denial trends.
